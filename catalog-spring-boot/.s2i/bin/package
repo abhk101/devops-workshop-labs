@@ -1,6 +1,6 @@
 #!/bin/bash
 export APP_VER=$1
-export XLDEPLOY_URL=http://hennies-macbook-pro.local
+export XLDEPLOY_URL=http://192.168.99.1
 
 echo "------ START BUILD INFO ------- "
 
