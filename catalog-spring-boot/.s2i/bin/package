@@ -1,6 +1,6 @@
 #!/bin/bash
 export APP_VER=$1
-export XLDEPLOY_URL=http://xldeploy-xebialabs.192.168.64.6.nip.io
+export XLDEPLOY_URL=http://hennies-macbook-pro.local
 
 echo "------ START BUILD INFO ------- "
 
